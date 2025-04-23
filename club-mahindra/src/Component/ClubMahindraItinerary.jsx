@@ -131,7 +131,7 @@ const ClubMahindraItinerary = () => {
           <h3>📍 Kandaghat, Himachal Pradesh</h3>
           <p>
             Distance from Chattarpur, New Delhi:{" "}
-            <strong>320 km (7-8 hours drive)</strong>
+            <strong>380 km (7-8 hours drive)</strong>
           </p>
         </div>
         <div className="info-box">
